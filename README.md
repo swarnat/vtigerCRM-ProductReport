@@ -14,5 +14,7 @@ https://github.com/swarnat/vtigerCRM-EventHandler
 
 Find the download in the *release* Folder.
 
+### Description
+
 You will get a button "Product filter" inside Organization, which you could use to setup the filter configuration.
 *You have to clear this configuration if you want to get a unfiltered view.*
